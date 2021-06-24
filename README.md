@@ -32,5 +32,6 @@ I'm a curious learner and developer, and my ambitions are sky high, just waiting
 
 </p>
 <hr>
-<hr>
-# Happy Creating !!😀
+
+
+# Happy Creating !!😀 
