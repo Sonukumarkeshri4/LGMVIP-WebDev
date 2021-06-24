@@ -1,6 +1,6 @@
 
 # <b> <p align="center"> Hello, everyone! 👋 </p>  </b>
-I am Sonu Kumar Keshri. I wont say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
+I am Sonu Kumar Keshri. I won't say that I'm a beginner or pro, rather a curious learner and developer😎. I have a Bachelor of Technology focused in Electronics and Communication engineering
  from National Institute of Technology, Patna . I am an experienced developer skilled in C++,Python, Full Stack Development, Machine learning,
   MERN, Javascript and its frameworks. <br/>
 
