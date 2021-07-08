@@ -8,7 +8,7 @@ This website is fully static and responsive made using HTML5, CSS, Bootstrap5 an
 
 - Classic UI
 - Fully Responsive
-- Esy to navigate between sections
+- Easy to navigate between sections
 - Cross platform
 
   
