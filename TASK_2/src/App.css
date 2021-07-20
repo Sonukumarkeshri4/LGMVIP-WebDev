@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+
+
+.container-fluid{
+  padding: 0 15%;
+}
+.navbar{
+  border-radius: 5px;
+background: #ededed  !important;
+box-shadow:  8px 8px 17px #d4d3d3,
+             -8px -8px 17px #ffffff;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  color: rgb(99, 99, 99) !important;
+}
+
+#titleNavbar{
+color: #777676;
+}
+
+
+
+ .getUser{
+   border-width: 0;
+   border-radius: 6px;
+background: #ededed;
+box-shadow:  6px 6px 9px #a8a8a8,
+             -6px -6px 9px #ffffff;
+ }
+
+ .getUser:hover{
+  border-radius: 5px;
+background: #ededed;
+box-shadow: inset 6px 6px 11px #b6b6b6,
+            inset -6px -6px 11px #ffffff;
+  color: black;;
+ }
+
+body{
+  background-color: #ededed;
+}
+.loader_container{
+  height: 60px;
+  width:320px;
+  margin: 50px auto;
+  border-radius: 20px;
+  background: #ededed;
+box-shadow:  6px 6px 9px #a8a8a8,
+             -6px -6px 9px #ffffff;
+}
+.loaderCircle {
+  position: relative;
+  width: 300px;
+  min-height: 20px;
+  margin: 20px auto;
+  
+  top: 20px;;
+
+  
+}
+
+.loaderCircle::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  
+  width: 300px;
+  min-height: 20px;
+  background-color: rgba(11,11,11,.5);
+}
+
+.loaderCircle::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 30px;
+  min-height: 20px;
+  background-color: rgb(206, 205, 205);
+  animation: load 1.5s linear infinite;
+}
+@keyframes load {
+  0% {
+    left: 0;
+    width: 0px;
+  }
+  50% {
+    left: 150px;
+    width: 150px;
+  }
+  100% {
+    left: 300px;
+    width: 0px;
+  }
+}
+
+
+.container-card{
+  padding: 4%;
+}
+.AvatarImage{
+  height: 140px;
+  width: 140px;
+  max-width: 100%;
+  margin: 5% auto;
+  border-radius: 100%;
+}
+
+.card{
+  width: 15rem;
+  margin: 0 auto;
+  background-color: #ededed;
+  border-width: 0;
+
+  border-radius: 27px;
+background: #ededed;
+box-shadow:  13px 13px 12px #b6b6b6,
+             -13px -13px 12px #ffffff;
+}
